@@ -1,6 +1,3 @@
-Sure! Here is a detailed .md file that explains microservices using Spring Boot, covering stages from basic to advanced with an example.
-
-
 # Microservices with Spring Boot
 
 ## Introduction
